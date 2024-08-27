@@ -1,10 +1,10 @@
 # Vinay Pandey
 
 ## About Me
-👨‍💻 I'm a B.Tech IT student with a focus on **web development** and **competitive coding**.
+👨‍💻 I'm a B.Tech IT student with a focus on **fullstack development** and **competitive coding**.
 
 ## What I Do
-- 🌐 Develop full-stack web applications.
+- 🌐 Develop full-stack web applications.(frontend ,backend ,devops )
 - 📊 Implement efficient data structures and algorithms.
 - 🏆 Participate in competitive coding challenges.
 
