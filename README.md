@@ -1,18 +1,13 @@
 # Vinay Pandey
 
 ## About Me
-👨‍💻 I'm a B.Tech IT graduate with a focus on **fullstack development** and **competitive coding**.
-
-## What I Do
-- 🌐 Develop full-stack web applications.(frontend ,backend ,devops )
-- 📊 Implement efficient data structures and algorithms.
-- 🏆 Participate in competitive coding challenges.
+👨‍💻 I'm a B.Tech IT graduate with a focus on **Data Analysis ** and **Data Science**.
 
 
 
 ## Connect with Me
 - GitHub: https://github.com/codevinay1
-- LinkedIn: https://www.linkedin.com/in/vinaypandeydev/
+- LinkedIn: https: https://www.linkedin.com/in/vinaypandey-da?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - X: https://twitter.com/VinayThePandey
 - instagram: https://www.instagram.com/thevinaypandey
 
